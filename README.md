@@ -10,6 +10,10 @@ https://www.mono-project.com/docs/
 
 # .NET Core SDK
 
+# .NET Build
+## Fake
+dotnet tool install fake-cli -g
+
 # Desktop background
 On Mac, choose Solid Gray Pro Ultra Dark
 On PC, choose black.
@@ -20,3 +24,16 @@ On PC, choose black.
 
 # Ansible
 Consider making settings with Ansible...
+
+# Node.js
+Get the latest stable. 
+
+## Package manager
+Yarn. 
+On Mac, brew install yarn
+
+# OS Package Manager
+On Mac, homebrew. 
+
+# Big Scary IDE
+On Mac, Xcode

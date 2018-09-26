@@ -8,6 +8,9 @@ Provides opinions on how to set up a Mac or PC for developers with a .NET bent.
 # Mono
 https://www.mono-project.com/docs/
 
+# Fonts
+https://github.com/tonsky/FiraCode/wiki
+
 # .NET Core SDK
 
 # .NET Build

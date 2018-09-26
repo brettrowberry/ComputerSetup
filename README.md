@@ -5,6 +5,9 @@ Provides opinions on how to set up a Mac or PC for developers with a .NET bent.
 ## Extensions
 ### Ionide-fsharp
 
+## Preferences
+https://www.smashingmagazine.com/2018/01/visual-studio-code/
+
 # Mono
 https://www.mono-project.com/docs/
 

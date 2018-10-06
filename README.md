@@ -28,9 +28,10 @@ On PC, choose black.
 ## Mac Terminal
 ### Make a new profile, perhaps with your name. Set the background color to black and the text color to green.
 To make Terminal show the current path,
-`cd`
-`vi .bash_profil`
-Add `export PS1="\w >"`. Other interesting options can be found here http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/.
+`cd`  
+`vi .bash_profile`  
+Add `export PS1="\w >"`.  
+Other interesting options can be found here http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/.
 
 # Ansible
 Consider making settings with Ansible...

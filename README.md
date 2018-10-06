@@ -27,7 +27,7 @@ On PC, choose black.
 # Shell
 ## Mac Terminal
 ### Make a new profile, perhaps with your name. Set the background color to black and the text color to green.
-To make Terminal show the current path,
+To make Terminal show the current path:  
 `cd`  
 `vi .bash_profile`  
 Add `export PS1="\w >"`.  

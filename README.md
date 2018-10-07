@@ -33,6 +33,12 @@ To make Terminal show the current path:
 Add `export PS1="\w>"`.  
 Other interesting options can be found here http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/.
 
+# File Explorer
+Show hidden files  
+On Mac  
+`defaults write com.apple.Finder AppleShowAllFiles true`  
+`killall Finder`  
+
 # Ansible
 Consider making settings with Ansible...
 

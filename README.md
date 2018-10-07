@@ -30,7 +30,7 @@ On PC, choose black.
 To make Terminal show the current path:  
 `cd`  
 `vi .bash_profile`  
-Add `export PS1="\w >"`.  
+Add `export PS1="\w>"`.  
 Other interesting options can be found here http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/.
 
 # Ansible

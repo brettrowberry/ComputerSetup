@@ -23,6 +23,9 @@ On Mac
 `defaults write com.apple.Finder AppleShowAllFiles true`  
 `killall Finder
 
+# Terminal
+Terminal > Preferences > Profiles > Keyboard > Use Option as Meta key
+
 # Dock
 make animation faster
 `defaults write com.apple.dock autohide-time-modifier -float 0.15;killall Dock`

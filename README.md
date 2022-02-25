@@ -32,3 +32,6 @@ make animation faster
 
 # OS Package Manager
 On Mac, homebrew.
+
+# Default Mail app
+https://docs.microsoft.com/en-us/outlook/troubleshoot/outlook-for-mac/useful-tools#setdefaultmailapp

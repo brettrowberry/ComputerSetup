@@ -37,7 +37,11 @@ Other interesting options can be found here http://osxdaily.com/2006/12/11/how-t
 Show hidden files  
 On Mac  
 `defaults write com.apple.Finder AppleShowAllFiles true`  
-`killall Finder`  
+`killall Finder
+
+# Dock
+make animation faster
+`defaults write com.apple.dock autohide-time-modifier -float 0.15;killall Dock`
 
 # Ansible
 Consider making settings with Ansible...

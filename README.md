@@ -20,7 +20,7 @@ On Mac
 `killall Finder
 
 # Terminal
-Terminal > Preferences > Profiles > Keyboard > Use Option as Meta key
+Terminal > Settings > Profiles > Keyboard > Use Option as Meta key
 
 # Dock
 make animation faster

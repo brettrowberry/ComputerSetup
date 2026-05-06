@@ -9,10 +9,6 @@ https://www.smashingmagazine.com/2018/01/visual-studio-code/
 # Fonts
 https://github.com/tonsky/FiraCode/wiki
 
-# Desktop background
-On Mac, choose Solid Gray Pro Ultra Dark
-On PC, choose black.
-
 # Shell
 ## Mac Terminal
 Other interesting options can be found here http://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/.
